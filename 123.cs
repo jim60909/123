@@ -1,6 +1,6 @@
 ﻿namespace Timely
 {
-     MemberDetail
+    partial class MemberDetail
     {
         /// <summary>
         /// Required designer variable.
