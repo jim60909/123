@@ -338,14 +338,5 @@
         private System.Windows.Forms.Panel panel5;
         private System.Windows.Forms.Panel panel6;
         private System.Windows.Forms.Label labName;
-        private System.Windows.Forms.Label labStar;
-        private System.Windows.Forms.Label labStarTimes;
-        private System.Windows.Forms.Label labComplaints;
-        private System.Windows.Forms.Label labComplaintsTimes;
-        private System.Windows.Forms.Panel panelSex;
-        private System.Windows.Forms.Label labSex;
-        private System.Windows.Forms.Label labAbility;
-        private System.Windows.Forms.Panel panelPhone;
-        private System.Windows.Forms.Label labPhone;
-    }
-}
+        
+};
