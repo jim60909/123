@@ -348,4 +348,8 @@
         private System.Windows.Forms.Panel panelPhone;
         private System.Windows.Forms.Label labPhone;
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> parent of 11d48e9... 555
