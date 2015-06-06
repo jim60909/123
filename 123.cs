@@ -1,6 +1,6 @@
 ﻿namespace Timely
 {
-     MemberDetail123
+     MemberDetail
     {
         /// <summary>
         /// Required designer variable.
